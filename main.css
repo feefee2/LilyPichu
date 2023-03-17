@@ -876,6 +876,7 @@
   mask: none;
 }
 :root .accountProfileCard-lbN7n- .bannerSVGWrapper-qc0szY .banner-2boKnS::before {
+  background-color: var(--background-secondary-alt) !important;
   content: "";
   position: absolute;
   width: 100%;

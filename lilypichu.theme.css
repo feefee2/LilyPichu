@@ -6,10 +6,10 @@
 * @version 1.4
 * @donate https://ko-fi.com/nyria
 */
-@import url("https://raw.githubusercontent.com/feefee2/LilyPichu/master/main.css");
+@import url("https://feefee2.github.io/LilyPichu/main.css");
 
 /* Remove decorations */
-@import url("https://raw.githubusercontent.com/feefee2/LilyPichu/master/stuff/overlay.css");
+@import url("https://feefee2.github.io/LilyPichu/stuff/overlay.css");
 
 :root {
   /* --- User variables --- */

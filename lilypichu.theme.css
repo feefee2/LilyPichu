@@ -24,6 +24,8 @@
 
   /* Border-radius for the whole theme */
   --border-radius: 20px;
+
+  --My-Account-Banner-Image: url("https://i.imgur.com/XRPmOL9.gif");
 }
 
 .theme-dark {

@@ -876,11 +876,13 @@
   mask: none;
 }
 :root .accountProfileCard-lbN7n- .bannerSVGWrapper-qc0szY .banner-2boKnS::before {
-  background-color: transparent !important;
   content: "";
   position: absolute;
   width: 100%;
   height: 100%;
+}
+:root .accountProfileCard-lbN7n- .bannerSVGWrapper-qc0szY .banner-2boKnS {
+  background-color: transparent !important;
 }
 :root .accountProfileCard-lbN7n- .bannerSVGWrapper-qc0szY[viewBox="0 0 340 120"] {
   transform: translateX(-200px);

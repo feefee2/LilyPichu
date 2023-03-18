@@ -998,6 +998,7 @@
 :root .premiumTab-39eQzY svg {
   fill: var(--background-accent) !important;
   margin-right: 5px;
+  display: none;
 }
 :root .feature-2IUcBI {
   border-radius: var(--border-radius);

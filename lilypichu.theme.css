@@ -11,6 +11,9 @@
 /* Remove decorations */
 @import url("https://feefee2.github.io/LilyPichu/stuff/overlay.css");
 
+/* Nice Settings Icons */
+@import url("https://mwittrien.github.io/BetterDiscordAddons/Themes/_res/SettingsIcons.css");
+
 :root {
   /* --- User variables --- */
 
